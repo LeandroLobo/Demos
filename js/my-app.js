@@ -232,7 +232,7 @@ function deshacer(){
             B[m+6]='-';
         }
     }
-    $$('#'+idUltimos).addClass('popover-open');
+    $$('#'+idUltimo).addClass('popover-open');
     calculaTotal();
     refrescaTablero();
 }
